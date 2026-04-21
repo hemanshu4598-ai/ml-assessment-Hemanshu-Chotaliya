@@ -1,4 +1,4 @@
-age	sex	chest_pain_type	resting_bp	cholesterol	fasting_bs	resting_ecg	max_hr	exercise_angina	oldpeak	st_slope	heart_disease
+age;	sex;	chest_pain_type;	resting_bp;	cholesterol;	fasting_bs;	resting_ecg;	max_hr;	exercise_angina;	oldpeak;	st_slope;	heart_disease
 68	0	atypical_angina	142	399	0	left_ventricular_hypertrophy	169	0	0.4	up	1
 58	1	non_anginal	163	310	1	st_t_wave_abnormality	121	1	1.1	up	1
 44	1	non_anginal	128	175	0	normal	183	1	0.2	up	0
